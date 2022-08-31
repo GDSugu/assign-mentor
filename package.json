@@ -1,0 +1,24 @@
+{
+  "name": "mentor_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "https": "^1.0.0",
+    "i": "^0.3.7",
+    "mongodb": "^4.9.0",
+    "npm": "^8.18.0"
+  }
+}
